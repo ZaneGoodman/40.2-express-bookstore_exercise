@@ -14,7 +14,7 @@
         "title": "The Book Schema",
         "required": [
           "isbn",
-          "amazon-url",
+          "amazon_url",
           "author",
           "language",
           "publisher",
@@ -33,7 +33,7 @@
             "maxLength:": 10,
             "pattern": "^(.*)$"
           },
-          "amazon-url": {
+          "amazon_url": {
             "$id": "#/properties/book/properties/amazon-url",
             "type": "string",
             "title": "The Amazon-url Schema",

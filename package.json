@@ -17,5 +17,6 @@
     "pg": "^8.11.3",
     "supertest": "^6.3.3"
   },
+  "devDependencies": {},
   "description": ""
 }
